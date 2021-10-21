@@ -1,0 +1,14 @@
+C:\Users\PConrad\source\repos\BlockbusterLab\BlockbusterLab\bin\Debug\netcoreapp3.1\BlockbusterLab.exe
+C:\Users\PConrad\source\repos\BlockbusterLab\BlockbusterLab\bin\Debug\netcoreapp3.1\BlockbusterLab.deps.json
+C:\Users\PConrad\source\repos\BlockbusterLab\BlockbusterLab\bin\Debug\netcoreapp3.1\BlockbusterLab.runtimeconfig.json
+C:\Users\PConrad\source\repos\BlockbusterLab\BlockbusterLab\bin\Debug\netcoreapp3.1\BlockbusterLab.runtimeconfig.dev.json
+C:\Users\PConrad\source\repos\BlockbusterLab\BlockbusterLab\bin\Debug\netcoreapp3.1\BlockbusterLab.dll
+C:\Users\PConrad\source\repos\BlockbusterLab\BlockbusterLab\bin\Debug\netcoreapp3.1\BlockbusterLab.pdb
+C:\Users\PConrad\source\repos\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.csproj.AssemblyReference.cache
+C:\Users\PConrad\source\repos\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PConrad\source\repos\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.AssemblyInfoInputs.cache
+C:\Users\PConrad\source\repos\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.AssemblyInfo.cs
+C:\Users\PConrad\source\repos\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.csproj.CoreCompileInputs.cache
+C:\Users\PConrad\source\repos\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.dll
+C:\Users\PConrad\source\repos\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.pdb
+C:\Users\PConrad\source\repos\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.genruntimeconfig.cache
